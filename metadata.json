@@ -1,0 +1,6 @@
+{
+  "name": "Evolução Beira-Leito UTI-Emergência",
+  "description": "Aplicativo para evolução e avaliação médica beira-leito de pacientes em terapia intensiva ou emergência, com cálculo automático de escores clínicos e geração de resumo estruturado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
